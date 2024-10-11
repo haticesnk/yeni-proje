@@ -1,0 +1,2 @@
+# yeni-proje
+ilk deneyimim
